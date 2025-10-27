@@ -1,0 +1,1 @@
+public class CepInvvalidoException extends Exception {}
